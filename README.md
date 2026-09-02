@@ -1,4 +1,4 @@
-````markdown
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&custom_color_list=0:0D0221,20:240046,45:3C096C,70:5A189A,100:7B2CBF&text=RAUNAK%20KUMAR&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn"/>
